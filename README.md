@@ -12,7 +12,7 @@
   </samp>
 </p>
 
-<h3 align="center">Skills</h1>
+
 <br>
 <p align="center" 
 <a href="https://twitter.com/dacoderr" target="_blank" rel="noreferrer"><img
@@ -21,6 +21,8 @@ src="https://img.shields.io/twitter/follow/dacoderr?logo=twitter&style=for-the-b
 src="https://img.shields.io/github/followers/dacoderr?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 </p>
 <br>
+
+<h3 align="center">Skills</h1>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>&nbsp;
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="nodejs" /></a></a>&nbsp;
@@ -35,5 +37,5 @@ src="https://img.shields.io/github/followers/dacoderr?logo=github&style=for-the-
 
 </div>
 <div align="center">
-  <img src="https://www.codewars.com/users/saira512dev/badges/large" alt="codewars-badge">
+  <img src="https://www.codewars.com/users/dacoderr/badges/large" alt="codewars-badge">
 </div>
