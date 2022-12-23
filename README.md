@@ -12,6 +12,7 @@
   </samp>
 </p>
 
+<h3 align="center">Skills</h1>
 <br>
 <p align="center" 
 <a href="https://twitter.com/dacoderr" target="_blank" rel="noreferrer"><img
@@ -34,5 +35,5 @@ src="https://img.shields.io/github/followers/dacoderr?logo=github&style=for-the-
 
 </div>
 <div align="center">
-  <img src="[https://www.codewars.com/users/saira512dev/badges/large](https://www.codewars.com/users/dacoderr/badges/large)" alt="codewars-badge">
+  <img src="https://www.codewars.com/users/saira512dev/badges/large" alt="codewars-badge">
 </div>
