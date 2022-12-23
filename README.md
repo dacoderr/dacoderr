@@ -14,9 +14,9 @@
 
 <br>
 <p align="center" 
-<a href="https://www.twitter.com/saira_codes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/saira_codes?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
-/></a>&nbsp;&nbsp;<a href="https://www.github.com/saira512dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
+<a href="https://twitter.com/dacoderr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/dacoderr?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
+/></a>&nbsp;&nbsp;<a href="https://www.github.com/dacoderr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/dacoderr?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 </p>
 <br>
