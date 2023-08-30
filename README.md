@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <script src="https://tryhackme.com/badge/2176888"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/bilalsxj.png" alt="TryHackMe">
 </div>
 
 <h3 align="center">Socials</h1>
