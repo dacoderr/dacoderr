@@ -27,6 +27,7 @@
   <img src="https://www.codewars.com/users/dacoderr/badges/large" alt="codewars-badge">
 </div>
 
+<h3 align="center">TryHackMe</h1>
 <div align="center">
  <img src="https://tryhackme-badges.s3.amazonaws.com/bilalsxj.png" alt="TryHackMe">
 </div>
