@@ -26,6 +26,11 @@
 <div align="center">
   <img src="https://www.codewars.com/users/dacoderr/badges/large" alt="codewars-badge">
 </div>
+
+<div align="center">
+  <script src="https://tryhackme.com/badge/2176888"></script>
+</div>
+
 <h3 align="center">Socials</h1>
 <br>
 <p align="center" 
