@@ -32,14 +32,6 @@
  <img src="https://tryhackme-badges.s3.amazonaws.com/bilalsxj.png" alt="TryHackMe">
 </div>
 
-<h3 align="center">Socials</h1>
-<br>
-<p align="center" 
-<a href="https://twitter.com/dacoderr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/dacoderr?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
-/></a>&nbsp;&nbsp;<a href="https://www.github.com/dacoderr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dacoderr?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
-<br>
-<br>
+
 
 
