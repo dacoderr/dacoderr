@@ -2,7 +2,6 @@
 <p align="center">
   <samp>
     Hi, I'm Bilal! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
     :email:	bilalsxj@gmail.com <br>
     :art: Portfolio: coming soon! <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/bilalsajid1/ <br>
