@@ -3,7 +3,6 @@
   <samp>
     Hi, I'm Bilal! 👋 <br>
     :email:	bilalsxj@gmail.com <br>
-    :art: Portfolio: coming soon! <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/bilalsajid1/ <br>
   </samp>
 </p>
