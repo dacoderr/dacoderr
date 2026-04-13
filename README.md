@@ -2,7 +2,6 @@
 <p align="center">
   <samp>
     Hi, I'm Bilal! 👋 <br>
-    :email:	bilalsxj@gmail.com <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/bilalsajid1/ <br>
   </samp>
 </p>
